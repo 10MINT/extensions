@@ -2,8 +2,7 @@
 
 A repository with my appinventor extensions and its logos.
 
-
-##Content of each folder
+## Content of each folder
 
 All directories with the "Beta" tag do not work properly and are designed to show off its functions.
 DO NOT USE THEM IN PRODUCTION VERSIONS, THEY CAN DESTROY YOUR PROJECT
