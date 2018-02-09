@@ -1,6 +1,6 @@
 # extensions
 
-A repository with my appinventor extensions and its logos.
+A repository with my App Inventor extensions and its logos.
 
 ## Content of each folder
 
