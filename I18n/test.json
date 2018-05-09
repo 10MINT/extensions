@@ -1,0 +1,30 @@
+{
+	"Deutsch":
+		{
+			"one": "Eins",
+			"two": "Zwei",
+			"three": "Drei",
+			"longtext": "Dies ist ein langer Text"
+		},
+	"English":
+		{
+			"one": "One",
+			"two": "Two",
+			"three": "Three",
+			"longtext": "This is a long text"
+		},
+	"Francais":
+		{
+			"one": "Un",
+			"two": "Deux",
+			"three": "Trois",
+			"longtext": "C'est un long texte"
+		},
+	"Svensk":
+		{
+			"one": "En",
+			"two": "Två",
+			"three": "Tre",
+			"longtext": "Detta är en lång text"
+		}
+}
