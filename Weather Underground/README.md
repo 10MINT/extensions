@@ -1,3 +1,5 @@
+# IMPORTANT: [Weather Underground stopped provifing free API keys](https://www.wunderground.com/weather/api/)
+
 ## This extension connects to the Weather Underground API. See also the [fantastic explanation](http://ai2.appinventor.mit.edu/reference/other/xml.html) at the App Inventor homepage
 
 # Current version number is 2
