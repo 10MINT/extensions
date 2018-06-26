@@ -2,10 +2,10 @@
 
 A repository with my App Inventor extensions and its logos.
 
-## Content of each folder
-
 All directories with the "Beta" tag do not work properly and are designed to show off its functions.
 DO NOT USE THEM IN PRODUCTION VERSIONS, THEY CAN DESTROY YOUR PROJECT
+
+## Content of each folder
 
 * the extension file
 * the extension's image
