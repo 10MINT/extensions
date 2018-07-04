@@ -17,6 +17,8 @@ This is a simple math extension. It has the following functions:
    * miles **toKilometers**
    * kilometers **toMiles**
 
+---
+
 Current version number is 3
 
 [Visit this topic](https://community.thunkable.com/t/mathtools-extension/7337) at [Thunkable](http:/thunkable.com) for updates

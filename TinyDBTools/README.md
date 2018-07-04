@@ -19,6 +19,8 @@ This extension provides some useful tools for the TinyDB component
 * FileSaved (String fileName)
   * Event indicating that the database has been written to `fileName`
 
+---
+
 Current version number is 1
 
 [Visit this topic](https://community.thunkable.com/t/free-tinydbtools-extension/24781) at [Thunkable](http:/thunkable.com) for updates.
