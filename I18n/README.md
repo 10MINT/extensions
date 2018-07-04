@@ -24,6 +24,8 @@ This extension allows localization in App Inventor. Upload a JSON-formatted file
 * void ReadFrom (String string)
   * Reads translations directly from a string. Is faster, but more inconvenient. Not recommended for a lot translations
 
+A big thanks to @ColinTree to provide the source code of his [SysLang extension](https://github.com/OpenSourceAIX/ColinTreeSysLang).
+
 ---
 
 Current version number is 6
