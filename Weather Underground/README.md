@@ -1,4 +1,4 @@
-## <font color="red">IMPORTANT: [Weather Underground stopped provifing free API keys](https://www.wunderground.com/weather/api/)</font>
+## <font color="red">IMPORTANT: [Weather Underground stopped providing free API keys](https://www.wunderground.com/weather/api/)</font>
 An alternative could be https://openweathermap.org/
 
 This extension connects to the Weather Underground API. See also the [fantastic explanation](http://ai2.appinventor.mit.edu/reference/other/xml.html) at the App Inventor homepage
