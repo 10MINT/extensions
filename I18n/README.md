@@ -1,4 +1,4 @@
-This extension allows localization in App Inventor. Upload a JSON-formatted file in your app and the strings will be set based on the user's locale. An example file can be found in [translations.json](/translations.json)
+This extension allows localization in App Inventor. Upload a JSON-formatted file in your app and the strings will be set based on the user's locale. An example file can be found in [translations.json](translations.json)
 
 [What is I18n?](https://en.wikipedia.org/wiki/Internationalization_and_localization)
 
@@ -19,7 +19,7 @@ This extension allows localization in App Inventor. Upload a JSON-formatted file
   * returns the system language in ISO 693-1 format
 
 ## Methods
-* <s>void Initialize</s> deprecated since version 3
+* <s>void Initialize</s> `deprecated since version 3`
   * Reads the content of the file
 * void ReadFrom (String string)
   * Reads translations directly from a string. Is faster, but more inconvenient. Not recommended for a lot translations
