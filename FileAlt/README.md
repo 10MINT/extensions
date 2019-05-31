@@ -22,6 +22,6 @@ This extension provides additional methods to the File component.
 
 ---
 
-Current version number is 3
+Current version number is 4
 
 [Visit this topic](https://community.thunkable.com/t/testers-needed-for-filealt-extension/16277) at [Thunkable](http:/thunkable.com) for updates.
