@@ -2,8 +2,7 @@
 
 A repository with my App Inventor extensions and its logos.
 
-For development and preview extensions, take a look at the beta branch. Those extensions may not work properly and are not representative.
-DO NOT USE THEM IN PRODUCTION VERSIONS, THEY CAN DESTROY YOUR PROJECT
+Welcome to the deprecated branch, the extensions hosted here are no longer supported.
 
 ## Each folder (hopefully) includes
 
